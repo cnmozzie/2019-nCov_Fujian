@@ -3417,6 +3417,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "平潭县",
         "id": 350128
       },
@@ -3903,6 +3908,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "台江区",
         "id": 350103
       },
@@ -5565,8 +5575,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
-        "fill-opacity": 0.5,
+        "fill": "#bf0000",
+        "fill-opacity": 0.55,
         "name": "荔城区",
         "id": 350304
       },
@@ -6046,8 +6056,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#bf0000",
-        "fill-opacity": 0.55,
+        "fill": "#7f0000",
+        "fill-opacity": 0.6,
         "name": "秀屿区",
         "id": 350305
       },
@@ -8188,7 +8198,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "宁化县",
         "id": 350424
@@ -9086,7 +9096,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "沙县",
         "id": 350427
@@ -9699,8 +9709,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
-        "fill-opacity": 0.5,
+        "fill": "#bf0000",
+        "fill-opacity": 0.55,
         "name": "永安市",
         "id": 350481
       },
@@ -10124,7 +10134,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "尤溪县",
         "id": 350426
@@ -11614,7 +11624,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "丰泽区",
         "id": 350503
@@ -12264,7 +12274,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "鲤城区",
         "id": 350502
@@ -12502,8 +12512,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
-        "fill-opacity": 0.5,
+        "fill": "#bf0000",
+        "fill-opacity": 0.55,
         "name": "南安市",
         "id": 350583
       },
@@ -14246,6 +14256,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "龙海市",
         "id": 350681
       },
@@ -17513,7 +17528,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "浦城县",
         "id": 350722
@@ -20321,6 +20336,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "连城县",
         "id": 350825
       },
@@ -21889,7 +21909,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "永定县",
         "id": 350822
