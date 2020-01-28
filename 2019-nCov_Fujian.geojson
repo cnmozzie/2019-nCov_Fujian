@@ -160,10 +160,10 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill-opacity": 0.5,
+        "fill-opacity": 0.55,
         "name": "长乐市",
         "id": 350182,
-        "fill": "#ff7f00"
+        "fill": "#bf0000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -437,7 +437,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#3f0000",
+        "fill": "#2f0000",
         "fill-opacity": 0.7,
         "name": "福清市",
         "id": 350181
@@ -1335,8 +1335,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff7f00",
-        "fill-opacity": 0.5,
+        "fill": "#bf0000",
+        "fill-opacity": 0.55,
         "name": "连江县",
         "id": 350122
       },
@@ -4472,6 +4472,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "湖里区",
         "id": 350206
       },
@@ -4548,6 +4553,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "集美区",
         "id": 350211
       },
@@ -5197,8 +5207,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#bf0000",
-        "fill-opacity": 0.55,
+        "fill": "#8f0000",
+        "fill-opacity": 0.6,
         "name": "城厢区",
         "id": 350302
       },
@@ -5575,8 +5585,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#bf0000",
-        "fill-opacity": 0.55,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "name": "荔城区",
         "id": 350304
       },
@@ -5733,6 +5743,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "仙游县",
         "id": 350322
       },
@@ -6056,7 +6071,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#7f0000",
+        "fill": "#8f0000",
         "fill-opacity": 0.6,
         "name": "秀屿区",
         "id": 350305
@@ -12065,8 +12080,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#3f0000",
-        "fill-opacity": 0.7,
+        "fill": "#5f0000",
+        "fill-opacity": 0.65,
         "name": "晋江市",
         "id": 350582
       },
@@ -12274,7 +12289,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "鲤城区",
         "id": 350502
@@ -13714,7 +13729,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "东山县",
         "id": 350626
@@ -20681,6 +20696,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "上杭县",
         "id": 350823
       },
