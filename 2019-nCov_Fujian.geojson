@@ -4,6 +4,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "鼓楼区",
         "id": 350102
       },
@@ -437,8 +442,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#2f0000",
-        "fill-opacity": 0.7,
+        "fill": "#5f0000",
+        "fill-opacity": 0.65,
         "name": "福清市",
         "id": 350181
       },
@@ -1136,7 +1141,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "晋安区",
         "id": 350111
@@ -1335,8 +1340,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#bf0000",
-        "fill-opacity": 0.55,
+        "fill": "#8f0000",
+        "fill-opacity": 0.6,
         "name": "连江县",
         "id": 350122
       },
@@ -2461,7 +2466,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "马尾区",
         "id": 350105
@@ -2638,7 +2643,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff7f00",
+        "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "闽侯县",
         "id": 350121
@@ -3031,8 +3036,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#bf0000",
-        "fill-opacity": 0.55,
+        "fill": "#5f0000",
+        "fill-opacity": 0.65,
         "name": "闽清县",
         "id": 350124
       },
@@ -4475,7 +4480,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "湖里区",
         "id": 350206
@@ -4556,7 +4561,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "集美区",
         "id": 350211
@@ -5207,8 +5212,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#8f0000",
-        "fill-opacity": 0.6,
+        "fill": "#5f0000",
+        "fill-opacity": 0.65,
         "name": "城厢区",
         "id": 350302
       },
@@ -6071,8 +6076,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#8f0000",
-        "fill-opacity": 0.6,
+        "fill": "#5f0000",
+        "fill-opacity": 0.65,
         "name": "秀屿区",
         "id": 350305
       },
@@ -7253,6 +7258,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "将乐县",
         "id": 350428
       },
@@ -7764,7 +7774,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "明溪县",
         "id": 350421
@@ -8619,6 +8629,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "清流县",
         "id": 350423
       },
@@ -9111,8 +9126,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
-        "fill-opacity": 0.5,
+        "fill": "#bf0000",
+        "fill-opacity": 0.55,
         "name": "沙县",
         "id": 350427
       },
@@ -10149,7 +10164,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "尤溪县",
         "id": 350426
@@ -10714,7 +10729,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "泉港区",
         "id": 350505
@@ -10851,8 +10866,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
-        "fill-opacity": 0.5,
+        "fill": "#bf0000",
+        "fill-opacity": 0.55,
         "name": "石狮市",
         "id": 350581
       },
@@ -10964,7 +10979,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff7f00",
+        "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "安溪县",
         "id": 350524
@@ -11639,7 +11654,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff7f00",
+        "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "丰泽区",
         "id": 350503
@@ -11733,6 +11748,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "惠安县",
         "id": 350521
       },
@@ -12527,8 +12547,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#bf0000",
-        "fill-opacity": 0.55,
+        "fill": "#5f0000",
+        "fill-opacity": 0.65,
         "name": "南安市",
         "id": 350583
       },
@@ -12909,6 +12929,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "永春县",
         "id": 350525
       },
@@ -15774,7 +15799,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff7f00",
+        "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "诏安县",
         "id": 350624
@@ -17904,7 +17929,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "邵武市",
         "id": 350781
@@ -18830,6 +18855,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "武夷山市",
         "id": 350782
       },
@@ -19963,6 +19993,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "长汀县",
         "id": 350821
       },
@@ -21140,7 +21175,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "武平县",
         "id": 350824
@@ -21530,6 +21565,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "新罗区",
         "id": 350802
       },
@@ -23210,6 +23250,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff7f00",
+        "fill-opacity": 0.5,
         "name": "福鼎市",
         "id": 350982
       },
@@ -23943,7 +23988,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff7f00",
+        "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "古田县",
         "id": 350922
@@ -25246,6 +25291,10 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "寿宁县",
         "id": 350924,
         "stroke": "#555555"
@@ -26516,6 +26565,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "周宁县",
         "id": 350925
       },
@@ -26816,6 +26870,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "柘荣县",
         "id": 350926
       },
