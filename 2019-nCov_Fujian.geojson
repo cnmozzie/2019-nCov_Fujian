@@ -442,8 +442,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#5f0000",
-        "fill-opacity": 0.65,
+        "fill": "#2f0000",
+        "fill-opacity": 0.7,
         "name": "福清市",
         "id": 350181
       },
@@ -2466,7 +2466,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "马尾区",
         "id": 350105
@@ -4675,6 +4675,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff7f00",
+        "fill-opacity": 0.5,
         "name": "思明区",
         "id": 350203
       },
@@ -4763,6 +4768,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "同安区",
         "id": 350212
       },
@@ -5212,8 +5222,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#5f0000",
-        "fill-opacity": 0.65,
+        "fill": "#2f0000",
+        "fill-opacity": 0.7,
         "name": "城厢区",
         "id": 350302
       },
@@ -5590,8 +5600,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
-        "fill-opacity": 0.5,
+        "fill": "#bf0000",
+        "fill-opacity": 0.55,
         "name": "荔城区",
         "id": 350304
       },
@@ -6076,8 +6086,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#5f0000",
-        "fill-opacity": 0.65,
+        "fill": "#2f0000",
+        "fill-opacity": 0.7,
         "name": "秀屿区",
         "id": 350305
       },
@@ -7603,6 +7613,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "梅列区",
         "id": 350402
       },
@@ -8632,7 +8647,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "清流县",
         "id": 350423
@@ -11379,6 +11394,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "德化县",
         "id": 350526
       },
@@ -11654,8 +11674,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
-        "fill-opacity": 0.5,
+        "fill": "#bf0000",
+        "fill-opacity": 0.55,
         "name": "丰泽区",
         "id": 350503
       },
@@ -12547,8 +12567,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#5f0000",
-        "fill-opacity": 0.65,
+        "fill": "#2f0000",
+        "fill-opacity": 0.7,
         "name": "南安市",
         "id": 350583
       },
@@ -13539,6 +13559,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "长泰县",
         "id": 350625
       },
@@ -14299,7 +14324,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "龙海市",
         "id": 350681
@@ -18299,6 +18324,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "顺昌县",
         "id": 350721
       },
@@ -18671,6 +18701,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "松溪县",
         "id": 350724
       },
@@ -19996,7 +20031,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "长汀县",
         "id": 350821
@@ -20389,7 +20424,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "连城县",
         "id": 350825
@@ -21568,7 +21603,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "新罗区",
         "id": 350802
@@ -25293,7 +25328,7 @@
       "properties": {
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "寿宁县",
         "id": 350924,
@@ -25571,8 +25606,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
-        "fill-opacity": 0.5,
+        "fill": "#bf0000",
+        "fill-opacity": 0.55,
         "name": "霞浦县",
         "id": 350921
       },
