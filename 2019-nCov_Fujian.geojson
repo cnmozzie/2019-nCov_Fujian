@@ -10,7 +10,8 @@
         "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "鼓楼区",
-        "id": 350102
+        "id": 350102,
+        "total-people": 72.8
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67,7 +68,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "仓山区",
-        "id": 350104
+        "id": 350104,
+        "total-people": 81.4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -168,7 +170,8 @@
         "fill-opacity": 0.6,
         "name": "长乐市",
         "id": 350182,
-        "fill": "#8f0000"
+        "fill": "#8f0000",
+        "total-people": 72.1
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -445,7 +448,8 @@
         "fill": "#2f0000",
         "fill-opacity": 0.7,
         "name": "福清市",
-        "id": 350181
+        "id": 350181,
+        "total-people": 129.3
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1144,7 +1148,8 @@
         "fill": "#2f0000",
         "fill-opacity": 0.7,
         "name": "晋安区",
-        "id": 350111
+        "id": 350111,
+        "total-people": 85.5
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1343,7 +1348,8 @@
         "fill": "#2f0000",
         "fill-opacity": 0.7,
         "name": "连江县",
-        "id": 350122
+        "id": 350122,
+        "total-people": 58.2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2120,7 +2126,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "罗源县",
-        "id": 350123
+        "id": 350123,
+        "total-people": 20.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2469,7 +2476,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "马尾区",
-        "id": 350105
+        "id": 350105,
+        "total-people": 25.5
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2646,7 +2654,8 @@
         "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "闽侯县",
-        "id": 350121
+        "id": 350121,
+        "total-people": 70.5
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3039,7 +3048,8 @@
         "fill": "#5f0000",
         "fill-opacity": 0.65,
         "name": "闽清县",
-        "id": 350124
+        "id": 350124,
+        "total-people": 23.8
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3428,7 +3438,8 @@
         "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "平潭县",
-        "id": 350128
+        "id": 350128,
+        "total-people": "44.0"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3919,7 +3930,8 @@
         "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "台江区",
-        "id": 350103
+        "id": 350103,
+        "total-people": 47.8
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3976,7 +3988,8 @@
         "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "永泰县",
-        "id": 350125
+        "id": 350125,
+        "total-people": 25.2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4374,7 +4387,8 @@
       "type": "Feature",
       "properties": {
         "name": "海沧区",
-        "id": 350205
+        "id": 350205,
+        "total-people": 35.6
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4483,7 +4497,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "湖里区",
-        "id": 350206
+        "id": 350206,
+        "total-people": 103.3
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4564,7 +4579,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "集美区",
-        "id": 350211
+        "id": 350211,
+        "total-people": 67.4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4681,7 +4697,8 @@
         "fill": "#2f0000",
         "fill-opacity": 0.7,
         "name": "思明区",
-        "id": 350203
+        "id": 350203,
+        "total-people": 100.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4774,7 +4791,8 @@
         "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "同安区",
-        "id": 350212
+        "id": 350212,
+        "total-people": 58.1
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5041,7 +5059,8 @@
         "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "翔安区",
-        "id": 350213
+        "id": 350213,
+        "total-people": 35.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5230,7 +5249,8 @@
         "fill": "#2f0000",
         "fill-opacity": 0.7,
         "name": "城厢区",
-        "id": 350302
+        "id": 350302,
+        "total-people": 43.3
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5407,7 +5427,8 @@
         "fill": "#bf0000",
         "fill-opacity": 0.55,
         "name": "涵江区",
-        "id": 350303
+        "id": 350303,
+        "total-people": 48.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5608,7 +5629,8 @@
         "fill": "#bf0000",
         "fill-opacity": 0.55,
         "name": "荔城区",
-        "id": 350304
+        "id": 350304,
+        "total-people": 52.3
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5769,7 +5791,8 @@
         "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "仙游县",
-        "id": 350322
+        "id": 350322,
+        "total-people": 86.3
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6094,7 +6117,8 @@
         "fill": "#2f0000",
         "fill-opacity": 0.7,
         "name": "秀屿区",
-        "id": 350305
+        "id": 350305,
+        "total-people": 59.4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6607,7 +6631,8 @@
         "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "大田县",
-        "id": 350425
+        "id": 350425,
+        "total-people": "41.0"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6991,7 +7016,8 @@
       "type": "Feature",
       "properties": {
         "name": "建宁县",
-        "id": 350430
+        "id": 350430,
+        "total-people": 15.5
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7284,7 +7310,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "将乐县",
-        "id": 350428
+        "id": 350428,
+        "total-people": 18.6
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7629,7 +7656,8 @@
         "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "梅列区",
-        "id": 350402
+        "id": 350402,
+        "total-people": 14.4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7802,7 +7830,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "明溪县",
-        "id": 350421
+        "id": 350421,
+        "total-people": 11.8
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8251,7 +8280,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "宁化县",
-        "id": 350424
+        "id": 350424,
+        "total-people": 37.6
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8660,7 +8690,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "清流县",
-        "id": 350423
+        "id": 350423,
+        "total-people": 15.5
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8953,7 +8984,8 @@
         "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "三元区",
-        "id": 350403
+        "id": 350403,
+        "total-people": 13.6
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9154,7 +9186,8 @@
         "fill": "#bf0000",
         "fill-opacity": 0.55,
         "name": "沙县",
-        "id": 350427
+        "id": 350427,
+        "total-people": "27.0"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9502,7 +9535,8 @@
       "type": "Feature",
       "properties": {
         "name": "泰宁县",
-        "id": 350429
+        "id": 350429,
+        "total-people": 13.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9767,7 +9801,8 @@
         "fill": "#bf0000",
         "fill-opacity": 0.55,
         "name": "永安市",
-        "id": 350481
+        "id": 350481,
+        "total-people": 33.1
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10192,7 +10227,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "尤溪县",
-        "id": 350426
+        "id": 350426,
+        "total-people": "45.0"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10757,7 +10793,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "泉港区",
-        "id": 350505
+        "id": 350505,
+        "total-people": 31
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10894,7 +10931,8 @@
         "fill": "#bf0000",
         "fill-opacity": 0.55,
         "name": "石狮市",
-        "id": 350581
+        "id": 350581,
+        "total-people": 63
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11007,7 +11045,8 @@
         "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "安溪县",
-        "id": 350524
+        "id": 350524,
+        "total-people": 107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11410,7 +11449,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "德化县",
-        "id": 350526
+        "id": 350526,
+        "total-people": 27
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11687,7 +11727,8 @@
         "fill": "#bf0000",
         "fill-opacity": 0.55,
         "name": "丰泽区",
-        "id": 350503
+        "id": 350503,
+        "total-people": 53
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11784,7 +11825,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "惠安县",
-        "id": 350521
+        "id": 350521,
+        "total-people": 93.8
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12008,7 +12050,8 @@
       "type": "Feature",
       "properties": {
         "name": "金门县",
-        "id": 350527
+        "id": 350527,
+        "total-people": 6
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12133,7 +12176,8 @@
         "fill": "#2f0000",
         "fill-opacity": 0.7,
         "name": "晋江市",
-        "id": 350582
+        "id": 350582,
+        "total-people": 198
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12342,7 +12386,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "鲤城区",
-        "id": 350502
+        "id": 350502,
+        "total-people": 36
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12403,7 +12448,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "洛江区",
-        "id": 350504
+        "id": 350504,
+        "total-people": 18
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12580,7 +12626,8 @@
         "fill": "#2f0000",
         "fill-opacity": 0.7,
         "name": "南安市",
-        "id": 350583
+        "id": 350583,
+        "total-people": 141
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12965,7 +13012,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "永春县",
-        "id": 350525
+        "id": 350525,
+        "total-people": 45
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13286,7 +13334,8 @@
         "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "云霄县",
-        "id": 350622
+        "id": 350622,
+        "total-people": 46.21
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13575,7 +13624,8 @@
         "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "长泰县",
-        "id": 350625
+        "id": 350625,
+        "total-people": 21.03
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13792,7 +13842,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "东山县",
-        "id": 350626
+        "id": 350626,
+        "total-people": 21.88
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14000,7 +14051,8 @@
       "type": "Feature",
       "properties": {
         "name": "华安县",
-        "id": 350629
+        "id": 350629,
+        "total-people": 16.92
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14337,7 +14389,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "龙海市",
-        "id": 350681
+        "id": 350681,
+        "total-people": 88.51
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14698,7 +14751,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "龙文区",
-        "id": 350603
+        "id": 350603,
+        "total-people": 15.43
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14802,7 +14856,8 @@
       "type": "Feature",
       "properties": {
         "name": "南靖县",
-        "id": 350627
+        "id": 350627,
+        "total-people": 36.17
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15126,7 +15181,8 @@
       "type": "Feature",
       "properties": {
         "name": "平和县",
-        "id": 350628
+        "id": 350628,
+        "total-people": 61.99
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15454,7 +15510,8 @@
       "type": "Feature",
       "properties": {
         "name": "漳浦县",
-        "id": 350623
+        "id": 350623,
+        "total-people": 92.86
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15837,7 +15894,8 @@
         "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "诏安县",
-        "id": 350624
+        "id": 350624,
+        "total-people": 67.27
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16164,7 +16222,8 @@
         "fill": "#5f0000",
         "fill-opacity": 0.65,
         "name": "芗城区",
-        "id": 350602
+        "id": 350602,
+        "total-people": 46.14
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16305,7 +16364,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "光泽县",
-        "id": 350723
+        "id": 350723,
+        "total-people": 13.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16637,7 +16697,8 @@
       "type": "Feature",
       "properties": {
         "name": "建阳市",
-        "id": 350784
+        "id": 350784,
+        "total-people": 32.4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17129,7 +17190,8 @@
       "type": "Feature",
       "properties": {
         "name": "建瓯市",
-        "id": 350783
+        "id": 350783,
+        "total-people": 45.6
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17606,7 +17668,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "浦城县",
-        "id": 350722
+        "id": 350722,
+        "total-people": 30
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17967,7 +18030,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "邵武市",
-        "id": 350781
+        "id": 350781,
+        "total-people": 27.8
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18340,7 +18404,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "顺昌县",
-        "id": 350721
+        "id": 350721,
+        "total-people": 19.2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18717,7 +18782,8 @@
         "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "松溪县",
-        "id": 350724
+        "id": 350724,
+        "total-people": 12.3
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18906,7 +18972,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "武夷山市",
-        "id": 350782
+        "id": 350782,
+        "total-people": 23.8
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19267,7 +19334,8 @@
         "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "延平区",
-        "id": 350702
+        "id": 350702,
+        "total-people": 47.3
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19707,7 +19775,8 @@
       "type": "Feature",
       "properties": {
         "name": "政和县",
-        "id": 350725
+        "id": 350725,
+        "total-people": 16.9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20044,7 +20113,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "长汀县",
-        "id": 350821
+        "id": 350821,
+        "total-people": 54.52
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20437,7 +20507,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "连城县",
-        "id": 350825
+        "id": 350825,
+        "total-people": 34.64
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20782,7 +20853,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "上杭县",
-        "id": 350823
+        "id": 350823,
+        "total-people": 52.92
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21223,7 +21295,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "武平县",
-        "id": 350824
+        "id": 350824,
+        "total-people": 40.07
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21616,7 +21689,8 @@
         "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "新罗区",
-        "id": 350802
+        "id": 350802,
+        "total-people": "53.40"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22017,7 +22091,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "永定县",
-        "id": 350822
+        "id": 350822,
+        "total-people": 50.67
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22373,7 +22448,8 @@
       "type": "Feature",
       "properties": {
         "name": "漳平市",
-        "id": 350881
+        "id": 350881,
+        "total-people": 29.67
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22812,7 +22888,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "福安市",
-        "id": 350981
+        "id": 350981,
+        "total-people": "66.70"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23301,7 +23378,8 @@
         "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "福鼎市",
-        "id": 350982
+        "id": 350982,
+        "total-people": 59.58
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24036,7 +24114,8 @@
         "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "古田县",
-        "id": 350922
+        "id": 350922,
+        "total-people": 42.98
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24449,7 +24528,8 @@
         "fill": "#bf0000",
         "fill-opacity": 0.55,
         "name": "蕉城区",
-        "id": 350902
+        "id": 350902,
+        "total-people": 49.39
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25097,7 +25177,8 @@
       "type": "Feature",
       "properties": {
         "name": "屏南县",
-        "id": 350923
+        "id": 350923,
+        "total-people": 19.04
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25342,7 +25423,8 @@
         "fill-opacity": 0.5,
         "name": "寿宁县",
         "id": 350924,
-        "stroke": "#555555"
+        "stroke": "#555555",
+        "total-people": 26.52
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25619,7 +25701,8 @@
         "fill": "#bf0000",
         "fill-opacity": 0.55,
         "name": "霞浦县",
-        "id": 350921
+        "id": 350921,
+        "total-people": 54.47
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26616,7 +26699,8 @@
         "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "周宁县",
-        "id": 350925
+        "id": 350925,
+        "total-people": 21.12
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26921,7 +27005,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "柘荣县",
-        "id": 350926
+        "id": 350926,
+        "total-people": 10.87
       },
       "geometry": {
         "type": "MultiPolygon",
