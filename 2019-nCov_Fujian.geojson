@@ -7,7 +7,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "鼓楼区",
         "id": 350102,
@@ -169,13 +169,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill-opacity": 0.6,
+        "fill-opacity": 0.5,
         "name": "长乐市",
         "id": 350182,
-        "fill": "#bf5f00",
+        "fill": "#ff0000",
         "total-people": 72.1,
-        "infected people": 4,
-        "density": 0.55
+        "infected people": 6,
+        "density": 0.83
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2485,7 +2485,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "马尾区",
         "id": 350105,
@@ -3451,7 +3451,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "平潭县",
         "id": 350128,
@@ -4726,8 +4726,8 @@
         "name": "思明区",
         "id": 350203,
         "total-people": 100.7,
-        "infected people": 7,
-        "density": "0.70"
+        "infected people": 8,
+        "density": 0.79
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5085,7 +5085,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "翔安区",
         "id": 350213,
@@ -6156,8 +6156,8 @@
         "name": "秀屿区",
         "id": 350305,
         "total-people": 59.4,
-        "infected people": 8,
-        "density": 1.35
+        "infected people": 9,
+        "density": 1.51
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12693,8 +12693,8 @@
         "name": "南安市",
         "id": 350583,
         "total-people": 141,
-        "infected people": 9,
-        "density": 0.64
+        "infected people": 11,
+        "density": 0.78
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16299,13 +16299,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#df0000",
-        "fill-opacity": 0.55,
+        "fill": "#bf0000",
+        "fill-opacity": 0.6,
         "name": "芗城区",
         "id": 350602,
         "total-people": 46.14,
-        "infected people": 6,
-        "density": "1.30"
+        "infected people": 8,
+        "density": 1.73
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19067,13 +19067,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
-        "fill-opacity": 0.5,
+        "fill": "#df0000",
+        "fill-opacity": 0.55,
         "name": "武夷山市",
         "id": 350782,
         "total-people": 23.8,
-        "infected people": 2,
-        "density": 0.84
+        "infected people": 3,
+        "density": 1.26
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21394,7 +21394,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "武平县",
         "id": 350824,
@@ -26810,13 +26810,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
-        "fill-opacity": 0.5,
+        "fill": "#bf0000",
+        "fill-opacity": 0.6,
         "name": "周宁县",
         "id": 350925,
         "total-people": 21.12,
-        "infected people": 2,
-        "density": 0.95
+        "infected people": 4,
+        "density": 1.89
       },
       "geometry": {
         "type": "MultiPolygon",
