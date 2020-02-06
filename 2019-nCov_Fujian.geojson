@@ -174,8 +174,8 @@
         "id": 350182,
         "fill": "#ff0000",
         "total-people": 72.1,
-        "infected people": 6,
-        "density": 0.83
+        "infected people": 7,
+        "density": 0.97
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5280,8 +5280,8 @@
         "name": "城厢区",
         "id": 350302,
         "total-people": 43.3,
-        "infected people": 18,
-        "density": 4.16
+        "infected people": 20,
+        "density": 4.62
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5659,13 +5659,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#9f4f00",
-        "fill-opacity": 0.65,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "name": "荔城区",
         "id": 350304,
         "total-people": 52.3,
-        "infected people": 4,
-        "density": 0.76
+        "infected people": 6,
+        "density": 1.15
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12232,13 +12232,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#9f4f00",
-        "fill-opacity": 0.65,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "name": "晋江市",
         "id": 350582,
         "total-people": 198,
-        "infected people": 15,
-        "density": 0.76
+        "infected people": 17,
+        "density": 0.86
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16304,8 +16304,8 @@
         "name": "芗城区",
         "id": 350602,
         "total-people": 46.14,
-        "infected people": 8,
-        "density": 1.73
+        "infected people": 9,
+        "density": 1.95
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26810,13 +26810,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#bf0000",
-        "fill-opacity": 0.6,
+        "fill": "#7f0000",
+        "fill-opacity": 0.7,
         "name": "周宁县",
         "id": 350925,
         "total-people": 21.12,
-        "infected people": 4,
-        "density": 1.89
+        "infected people": 6,
+        "density": 2.84
       },
       "geometry": {
         "type": "MultiPolygon",
