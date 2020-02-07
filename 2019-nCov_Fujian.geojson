@@ -2663,13 +2663,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#df6f00",
-        "fill-opacity": 0.55,
+        "fill": "#bf5f00",
+        "fill-opacity": 0.6,
         "name": "闽侯县",
         "id": 350121,
         "total-people": 70.5,
-        "infected people": 2,
-        "density": 0.28
+        "infected people": 3,
+        "density": 0.43
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3451,7 +3451,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "平潭县",
         "id": 350128,
@@ -4601,13 +4601,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#df6f00",
-        "fill-opacity": 0.55,
+        "fill": "#bf5f00",
+        "fill-opacity": 0.6,
         "name": "集美区",
         "id": 350211,
         "total-people": 67.4,
-        "infected people": 2,
-        "density": "0.30"
+        "infected people": 3,
+        "density": 0.45
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4721,13 +4721,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#9f4f00",
-        "fill-opacity": 0.65,
+        "fill": "#ff0000",
+        "fill-opacity": 0.7,
         "name": "思明区",
         "id": 350203,
         "total-people": 100.7,
-        "infected people": 8,
-        "density": 0.79
+        "infected people": 9,
+        "density": 0.89
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5280,8 +5280,8 @@
         "name": "城厢区",
         "id": 350302,
         "total-people": 43.3,
-        "infected people": 20,
-        "density": 4.62
+        "infected people": 22,
+        "density": 5.08
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6667,7 +6667,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "大田县",
         "id": 350425,
@@ -9233,8 +9233,8 @@
         "name": "沙县",
         "id": 350427,
         "total-people": "27.0",
-        "infected people": 3,
-        "density": 1.11
+        "infected people": 4,
+        "density": 1.48
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13076,13 +13076,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#df6f00",
-        "fill-opacity": 0.55,
+        "fill": "#bf5f00",
+        "fill-opacity": 0.6,
         "name": "永春县",
         "id": 350525,
         "total-people": 45,
-        "infected people": 1,
-        "density": 0.22
+        "infected people": 2,
+        "density": 0.44
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22190,13 +22190,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#df6f00",
-        "fill-opacity": 0.55,
+        "fill": "#9f4f00",
+        "fill-opacity": 0.65,
         "name": "永定县",
         "id": 350822,
         "total-people": 50.67,
-        "infected people": 2,
-        "density": 0.39
+        "infected people": 4,
+        "density": 0.79
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25288,6 +25288,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "屏南县",
         "id": 350923,
         "total-people": 19.04
@@ -25531,7 +25536,7 @@
       "properties": {
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "寿宁县",
         "id": 350924,
