@@ -7,11 +7,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#ff7f00",
         "fill-opacity": 0.5,
         "name": "鼓楼区",
         "id": 350102,
-        "total-people": 72.8
+        "total-people": 72.8,
+        "infected people": 1,
+        "density": 0.14
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -174,8 +176,8 @@
         "id": 350182,
         "fill": "#ff0000",
         "total-people": 72.1,
-        "infected people": 7,
-        "density": 0.97
+        "infected people": 8,
+        "density": 1.11
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3943,7 +3945,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "台江区",
         "id": 350103,
@@ -4407,7 +4409,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "海沧区",
         "id": 350205,
@@ -4606,8 +4608,8 @@
         "name": "集美区",
         "id": 350211,
         "total-people": 67.4,
-        "infected people": 3,
-        "density": 0.45
+        "infected people": 4,
+        "density": 0.59
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4726,8 +4728,8 @@
         "name": "思明区",
         "id": 350203,
         "total-people": 100.7,
-        "infected people": 9,
-        "density": 0.89
+        "infected people": 10,
+        "density": 0.99
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5275,13 +5277,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#3f0000",
-        "fill-opacity": 0.8,
+        "fill": "#1f0000",
+        "fill-opacity": 0.85,
         "name": "城厢区",
         "id": 350302,
         "total-people": 43.3,
-        "infected people": 22,
-        "density": 5.08
+        "infected people": 25,
+        "density": 5.77
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7694,7 +7696,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "梅列区",
         "id": 350402,
@@ -13692,7 +13694,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "长泰县",
         "id": 350625,
@@ -18875,13 +18877,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#bf0000",
-        "fill-opacity": 0.6,
+        "fill": "#9f0000",
+        "fill-opacity": 0.65,
         "name": "松溪县",
         "id": 350724,
         "total-people": 12.3,
-        "infected people": 2,
-        "density": 1.63
+        "infected people": 3,
+        "density": 2.44
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19876,9 +19878,16 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#bf5f00",
+        "fill-opacity": 0.6,
         "name": "政和县",
         "id": 350725,
-        "total-people": 16.9
+        "total-people": 16.9,
+        "infected people": 1,
+        "density": 0.59
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20212,7 +20221,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffff00",
         "fill-opacity": 0.5,
         "name": "长汀县",
         "id": 350821,
@@ -20606,7 +20615,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "连城县",
         "id": 350825,
@@ -20956,7 +20965,8 @@
         "fill-opacity": 0.5,
         "name": "上杭县",
         "id": 350823,
-        "total-people": 52.92
+        "total-people": 52.92,
+        "infected people": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22190,13 +22200,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#9f4f00",
-        "fill-opacity": 0.65,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "name": "永定县",
         "id": 350822,
         "total-people": 50.67,
-        "infected people": 4,
-        "density": 0.79
+        "infected people": 5,
+        "density": 0.99
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24219,13 +24229,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#bf5f00",
+        "fill": "#bf0000",
         "fill-opacity": 0.6,
         "name": "古田县",
         "id": 350922,
         "total-people": 42.98,
-        "infected people": 2,
-        "density": 0.47
+        "infected people": 7,
+        "density": 1.63
       },
       "geometry": {
         "type": "MultiPolygon",
