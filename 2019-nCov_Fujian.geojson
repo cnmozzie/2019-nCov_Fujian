@@ -451,13 +451,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
-        "fill-opacity": 0.5,
+        "fill": "#df0000",
+        "fill-opacity": 0.55,
         "name": "福清市",
         "id": 350181,
         "total-people": 129.3,
-        "infected people": 15,
-        "density": 1.16
+        "infected people": 16,
+        "density": 1.23
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3066,8 +3066,8 @@
         "name": "闽清县",
         "id": 350124,
         "total-people": 23.8,
-        "infected people": 6,
-        "density": 2.52
+        "infected people": 7,
+        "density": 2.94
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5089,13 +5089,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#df6f00",
-        "fill-opacity": 0.55,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "name": "翔安区",
         "id": 350213,
         "total-people": 35.9,
-        "infected people": 1,
-        "density": 0.28
+        "infected people": 3,
+        "density": 0.84
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5286,8 +5286,8 @@
         "name": "城厢区",
         "id": 350302,
         "total-people": 43.3,
-        "infected people": 30,
-        "density": 6.93
+        "infected people": 31,
+        "density": 7.16
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5834,8 +5834,8 @@
         "name": "仙游县",
         "id": 350322,
         "total-people": 86.3,
-        "infected people": 4,
-        "density": 0.46
+        "infected people": 5,
+        "density": 0.58
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12243,8 +12243,8 @@
         "name": "晋江市",
         "id": 350582,
         "total-people": 198,
-        "infected people": 17,
-        "density": 0.86
+        "infected people": 18,
+        "density": 0.91
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14945,6 +14945,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "name": "南靖县",
         "id": 350627,
         "total-people": 36.17
@@ -17295,13 +17300,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#df6f00",
+        "fill": "#bf5f00",
         "name": "建瓯市",
         "id": 350783,
         "total-people": 45.6,
-        "fill-opacity": 0.55,
-        "infected people": 1,
-        "density": 0.22
+        "fill-opacity": 0.6,
+        "infected people": 2,
+        "density": 0.44
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21816,7 +21821,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "新罗区",
         "id": 350802,
@@ -24247,13 +24252,13 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#9f0000",
-        "fill-opacity": 0.65,
+        "fill": "#7f0000",
+        "fill-opacity": 0.7,
         "name": "古田县",
         "id": 350922,
         "total-people": 42.98,
-        "infected people": 10,
-        "density": 2.33
+        "infected people": 11,
+        "density": 2.56
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25564,7 +25569,7 @@
       "properties": {
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffff00",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "寿宁县",
         "id": 350924,
